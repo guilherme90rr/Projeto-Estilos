@@ -1,0 +1,21 @@
+
+
+nav{
+        background-color: darkblue;
+        height: 15vh;
+        display: flex;
+        justify-content: center;
+}
+
+ul{display:flex;}
+
+ul li{list-style:none;}
+
+ul li a{
+    display:inline-block;
+    text-decoration: none;
+    padding: 20px;
+    color: #fff;
+    font-size: 1.em;
+}
+
